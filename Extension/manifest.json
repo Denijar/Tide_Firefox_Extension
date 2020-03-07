@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "Tide Buddy",
+  "version": "1.0",
+
+  "description": "Displays Tide Information",
+  "homepage_url": "https://github.com/Denijar/Tide_Firefox_Extension",
+  "icons": {
+    "48": "icons/wave-48.png",
+    "96": "icons/wave-96.png"
+  },
+
+  "browser_action": {
+    "default_icon": "icons/wave-48.png",
+    "default_title": "Tide Buddy",
+    "default_popup": "popup/view_tide_data.html"
+  }
+
+}

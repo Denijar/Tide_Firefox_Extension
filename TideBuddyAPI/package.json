@@ -1,0 +1,16 @@
+{
+  "name": "Tide Buddy API",
+  "version": "0.0.1",
+  "description": "API which returns Tide Data",
+  "author": "Denise Jarry",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "^7.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
